@@ -9,5 +9,30 @@ edition = "2021"
 name = "contains_duplicate"
 path = "src/arrays_hashing/contains_duplicate.rs"
 
+[[bin]]
+name = "valid_anagram"
+path = "src/arrays_hashing/valid_anagram.rs"
+
+[[bin]]
+name = "two_sum"
+path = "src/arrays_hashing/two_sum.rs"
+
+[[bin]]
+name = "group_anagrams"
+path = "src/arrays_hashing/group_anagrams.rs"
+
+[[bin]]
+name = "top_frequent_elements"
+path = "src/arrays_hashing/top_frequent_elements.rs"
+
+[[bin]]
+name = "product_except_self"
+path = "src/arrays_hashing/product_except_self.rs"
+
+
+
+
+
+
 
 [dependencies]
