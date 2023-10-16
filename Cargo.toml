@@ -29,10 +29,21 @@ path = "src/arrays_hashing/top_frequent_elements.rs"
 name = "product_except_self"
 path = "src/arrays_hashing/product_except_self.rs"
 
+[[bin]]
+name = "valid_sudoku"
+path = "src/arrays_hashing/valid_sudoku.rs"
 
+[[bin]]
+name = "longest_consecutive"
+path = "src/arrays_hashing/longest_consecutive.rs"
 
+[[bin]]
+name = "valid_parens"
+path = "src/stack/valid_parens.rs"
 
-
+[[bin]]
+name = "min_stack"
+path = "src/stack/min_stack.rs"
 
 
 [dependencies]
