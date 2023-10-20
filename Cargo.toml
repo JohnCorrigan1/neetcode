@@ -45,5 +45,9 @@ path = "src/stack/valid_parens.rs"
 name = "min_stack"
 path = "src/stack/min_stack.rs"
 
+[[bin]]
+name = "polish_notation"
+path = "src/stack/polish_notation.rs"
+
 
 [dependencies]
